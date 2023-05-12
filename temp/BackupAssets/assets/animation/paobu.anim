@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "paobu",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 0.8,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1e8f93d9-a3d1-45ee-81f4-585e9c893c65"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "fc914e8e-9bfb-46da-ad87-d257d2f9ec12"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "0c6e0f03-948b-4326-9ec9-6a444edac3b3"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "f249b99a-3557-47e0-ab3c-a5eaa5a65aa0"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "d6a35755-d7e9-429c-8534-b54e92e39e96"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "827e84b8-9e0c-4f7d-903b-31493fdfaab4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

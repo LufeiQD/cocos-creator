@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zhujue",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 0.7,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9c9993dd-34d9-48d7-8a2f-be53aa8f3a35"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "da18ce03-69f0-4e53-9486-40da2e507885"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "5177c2af-6b49-47e8-95aa-e7e0631c41a7"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "9bfc92dc-e888-4017-abc9-d78999efb4e0"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
